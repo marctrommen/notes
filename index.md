@@ -7,6 +7,7 @@ title: Startseite
 Willkommen in meiner Notizensammlung!
 Wähle eine Kategorie:
 
+*   [Python](python/)
 *	[Linux](linux/)
 *	[Raspberry Pi](raspberry_pi/)
 *	[Rezepte](rezepte/)
