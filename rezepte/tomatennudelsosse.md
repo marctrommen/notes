@@ -33,10 +33,11 @@ title: "Tomatensoße für Nudeln"
 
 ## Zubereitung
 
-1)  Zwiebel und Knoblauchzehen in feine Würfel schneiden.
+*   Zwiebel und Knoblauchzehen in feine Würfel schneiden.
     Mit etwas Olivenöl in einem ausreichend großen Topf (mindestens 
     2 Liter Fassungsvermögen) glasig anbraten.
-1)  Tomaten je nach Größe halbieren oder vierteln; nicht zu klein schneiden, 
+
+*   Tomaten je nach Größe halbieren oder vierteln; nicht zu klein schneiden, 
     damit sie stückelig bleiben. In den Topf geben und für mindestens 
     15 Minuten köcheln lassen.
 
@@ -48,5 +49,5 @@ title: "Tomatensoße für Nudeln"
 
     Erst in den letzten Minuten Pfeffer und Oregano hinzufügen.
 
-2)  Beim Anrichten der Thomatensoße über den Nudeln im Teller, kann 
+*   Beim Anrichten der Thomatensoße über den Nudeln im Teller, kann 
     noch garniert werden mit Basilikumblättern, Mozzarella, Oliven.
