@@ -7,5 +7,14 @@ title: "Rezepte"
 
 # Rezepte
 
-*	[Butterplätzchen](butterplaetzchen.md)
-*	[Chia Schoko Pudding](chia_schoko_pudding.md)
+
+## Gerichte
+
+*   [Gnocchi aus Kartoffeln](gnocchi_kartoffel)
+*   [Tomatensoße für Nudeln](tomatennudelsosse)
+
+
+## Nachspeisen
+
+*	[Butterplätzchen](butterplaetzchen)
+*	[Chia Schoko Pudding](chia_schoko_pudding)
