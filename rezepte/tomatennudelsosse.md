@@ -8,9 +8,6 @@ title: "Tomatensoße für Nudeln"
 
 # Tomatensoße für Nudeln
 
-## Siehe auch
-
-*   [LINK](https://adresse)
 
 ## Zutaten
 
