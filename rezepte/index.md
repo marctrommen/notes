@@ -18,3 +18,4 @@ title: "Rezepte"
 
 *	[Butterplätzchen](butterplaetzchen)
 *	[Chia Schoko Pudding](chia_schoko_pudding)
+*   [Pfannkuchen](pfannkuchen)
