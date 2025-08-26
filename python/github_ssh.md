@@ -104,7 +104,7 @@ title: "GitHub per SSH-Key einrichten und erreichen"
 
 *	create new GitHub Repo and connect it to an existing local Repo
 
-	https://www.heise.de/ratgeber/Einstieg-in-Git-und-GitHub-Erste-Projekte-realisieren-6216127.html?seite=5
+	[Link to article](https://www.heise.de/ratgeber/Einstieg-in-Git-und-GitHub-Erste-Projekte-realisieren-6216127.html?seite=5)
 	
 	SSH: `git@github.com:marctrommen/my_project.git`
 	
