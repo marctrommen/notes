@@ -17,7 +17,7 @@ title: "Safran Risotto"
 *   250g Risotto Reis
 *   1 Zwiebel
 *   1 Knoblauchzehe
-*   1,5 Liter Gemüsebrühe
+*   1 Liter Gemüsebrühe
 *   200ml Weißwein
 *   0,5g Safranfäden
 *   50g Butter
