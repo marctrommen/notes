@@ -17,6 +17,7 @@ title: "Rezepte"
 
 ## Backwaren
 
+*   [Apfelkuchen](apfelkuchen)
 *   [Vollkornbrot](vollkornbrot)
 
 
