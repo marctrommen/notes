@@ -1,5 +1,5 @@
 ---
-title: "Gnocchi aus Kartoffeln"
+title: "Gnocchi"
 ---
 
 [← Zurück zu Rezepte](./)
@@ -7,7 +7,7 @@ title: "Gnocchi aus Kartoffeln"
 [← Zurück zur Startseite](../)
 
 
-# Gnocchi aus Kartoffeln
+# Gnocchi
 
 ## Zutaten
 
