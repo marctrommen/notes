@@ -17,7 +17,7 @@ title: "Rote Linsen-Curry mit Süßkartoffeln"
 *	450 g Süßkartoffeln	
 *	1 große rote Paprikaschote	
 *	2 Knoblauchzehen	
-*	2 m.-große Zwiebel	
+*	2 mittelgroße Zwiebel	
 *	1 EL Olivenöl	
 *	2 EL Tomatenmark	
 *	2 TL Currypulver	
@@ -34,8 +34,8 @@ title: "Rote Linsen-Curry mit Süßkartoffeln"
 *	Die Süßkartoffeln schälen und würfeln. Die Paprikaschote würfeln, den
 	Knoblauch schälen und die Zwiebeln klein schneiden.
 
-*	Das Olivenöl in einem großen Topf erhitzen und die Zwiebeln glasig an-
-	schwitzen. 
+*	Das Olivenöl in einem großen Topf erhitzen und die Zwiebeln glasig 
+	anschwitzen. 
 
 *	Den Knoblauch durch die Presse in den Topf drücken, kurz mitbraten und dann 
 	Süßkartoffeln und Paprika in den Topf geben. 

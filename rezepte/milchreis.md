@@ -13,7 +13,7 @@ title: "Milchreis"
 *	350 gr. Milchreis
 *	2 l Milch
 *	150 gr. Erythrit
-*	3 Pckg. Vanillepuddingpulver
+*	2 Pckg. Puddingpulver Vanille
 
 
 ## Zubereitung
@@ -34,8 +34,3 @@ title: "Milchreis"
 
 *	Dann Abfüllen in kleine Schraubverschlussgläser, diese zuvor mit kaltem 
 	Wasser ausspülen.
-
-
-
-
-

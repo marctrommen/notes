@@ -1,12 +1,12 @@
 ---
-title: "Nudeln mit Tomaten und Burrata"
+title: "Nudeln mit Tomatensoße und Burrata"
 ---
 
 [← Zurück zu Rezepte](./)
 
 [← Zurück zur Startseite](../)
 
-# Nudeln mit Tomaten und Burrata
+# Nudeln mit Tomatensoße und Burrata
 
 ## Zutaten (für 2 bis 3 Personen)
 

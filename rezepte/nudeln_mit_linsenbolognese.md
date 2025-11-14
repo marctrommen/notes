@@ -10,7 +10,7 @@ title: "Nudeln mit Linsen-Bolognese"
 
 ## Siehe auch
 
-*   https://www.dm.de/tipps-und-trends/rezepte/veggie-nudeln-mit-linsen-2427556
+*   [DM online](https://www.dm.de/tipps-und-trends/rezepte/veggie-nudeln-mit-linsen-2427556)
 
 ## Zutaten (für 2 Personen)
 

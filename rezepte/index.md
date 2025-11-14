@@ -12,7 +12,7 @@ title: "Rezepte"
 
 *   [Asiatische Kürbisgericht](asiatisches_kürbisgericht)
 *   [Asiatisches Ramen mit Lachs](asiatisches_ramen_mit_lachs)
-*   [Bolognese Genoveser Art](bolognese_art_genovese)
+*   [Ragù alla Genovese](bolognese_art_genovese)
 *   [Gnocchi aus Kartoffeln](gnocchi_kartoffel)
 *   [Grießnockerl-Suppe](grießnockerlsuppe)
 *   [Kürbis Mais Pfanne](kürbis_mais_pfanne)
@@ -44,13 +44,17 @@ title: "Rezepte"
 
 ## Nachspeisen
 
-*	[Butterplätzchen](butterplaetzchen)
 *	[Chia Schoko Pudding](chia_schoko_pudding)
+*   [Dinkel-Kekse (ohne Ei, Laktose-frei)](dinkel_kekse)
 *   [Grießbrei](griesbrei)
 *   [Himbeer Spekulatius Dessert](himbeer_spekulatius_dessert)
 *   [Milchreis](milchreis)
 *   [Pfannkuchen](pfannkuchen)
 *   [Tiramisu](tiramisu)
+
+## Weihnachten
+
+*	[Butterplätzchen](butterplaetzchen)
 
 
 ## Sonstiges

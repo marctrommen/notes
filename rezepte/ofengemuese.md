@@ -10,31 +10,29 @@ title: "Ofengemüse"
 
 ## Zutaten
 
-* 	nach Belieben: Kartoffeln, Zucchini, Zwiebel etc.
+* 	Gemüse nach Belieben: 
+
+	Kartoffeln, Zucchini, Zwiebeln, Oberginen, Karotten, Kürbis
+
 *	2 bis 3 Knoblauchzehen
 *	1 TL Paprikapulver rosenscharf
+*	2 TL Paprikapulver edelsüß
 *	2 bis 3 EL Rapsöl
-*	gezupfter Rosmarin
-*	Salz
+*	gezupfter frischer Rosmarin
+*	Salz, Pfeffer
 
 
 ## Zubereitung
 
-*	Die Kartoffeln waschen und in Spalten schneiden.
+*	Die Kartoffeln gut waschen und mit der Schale in grobe Würfel schneiden.
 
 *	Die Zwiebel vierteln.
 
 *	Das restliche Gemüse waschen und in grobe Würfel schneiden.
 
-*	Alles zusammen mit dem Knoblauch in eine große Schüssel geben.
+*	Alles zusammen mit dem Knoblauch (im Ganzen belassen) in eine große Schüssel geben.
 
-*	Paprikapulver, Rosmarin, Öl und Salz untermischen und alles gut ver-
-	mengen.
+*	Paprikapulver, Rosmarin, Öl und Salz untermischen und alles gut vermengen.
 	
 *	Auf ein mit Backpapier ausgelegtes Backblech geben und im Backofen auf 
 	mittlerer Schiene bei  °C ca. 40 Minuten backen.
-	
-	
-
-
-

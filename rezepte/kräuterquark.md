@@ -10,7 +10,7 @@ title: "Kräuterquark"
 
 ## Siehe auch
 
-*  	[Chefkoch.de] https://www.chefkoch.de/rezepte/1367011241524338/Der-weltbeste-Kraeuterquark.html?portionen=3
+*  	[Chefkoch.de](https://www.chefkoch.de/rezepte/1367011241524338/Der-weltbeste-Kraeuterquark.html?portionen=3)
 
 ---
 

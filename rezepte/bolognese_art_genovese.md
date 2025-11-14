@@ -1,16 +1,17 @@
 ---
-title: "Neapolitanisches Gulasch Genovese á la Luigi Tesoro"
+title: "Ragù alla Genovese"
 ---
 
 [← Zurück zu Rezepte](./)
 
 [← Zurück zur Startseite](../)
 
-# Neapolitanisches Gulasch Genovese á la Luigi Tesoro
+# Ragù alla Genovese
 
 ## Siehe auch
 
-*   [falstaff] https://www.falstaff.com/de/rezepte/kochen/neopolitanisches-gulasch-genovese-a-la-luigi-tesoro
+*	[YouTube](https://www.youtube.com/watch?v=63PewmD2Qwk)
+*   [falstaff](https://www.falstaff.com/de/rezepte/kochen/neopolitanisches-gulasch-genovese-a-la-luigi-tesoro)
 
 ---
 

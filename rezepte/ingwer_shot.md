@@ -18,7 +18,7 @@ title: "Ingwer-Shot"
 ## Zubereitung
 
 *   Ingwer gut waschen, schlechte stellen wegschneiden.
-    Dann den Ingwer ohne zu schälen in kleine Stücke (ca. 1cm dick)
+    Dann den Ingwer ohne zu schälen in kleine Stücke (ca. 1 bis 2 mm)
     schneiden.
 
 *   Die Bio-Zitronen ebenfalls gut waschen. Dann mit einem Obstmesser
