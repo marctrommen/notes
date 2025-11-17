@@ -13,7 +13,7 @@ title: "Rezepte"
 *   [Elisenlebkuchen](elisenlebkuchen)
 *   [Grießbrei mit Hartweizengrieß](griessbrei_mit_hartweizen)
 *   [Hummus](hummus)
-*   [Risotto mit Trüffelöl](risotto_mit_trueffeloe)
+*   [Risotto mit Trüffelöl](risotto_mit_trueffeloel)
 *   [Rosinensemmeln](rosinensemmeln)
 *   [Spaghetti mit Trüffelöl](spaghetti_mit_trueffeloel)
 
