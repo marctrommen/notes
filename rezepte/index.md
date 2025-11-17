@@ -8,6 +8,16 @@ title: "Rezepte"
 # Rezepte
 
 
+## NEU - Gefunden, aber noch nicht getestet :-)
+
+*   [Elisenlebkuchen](elisenlebkuchen)
+*   [Grießbrei mit Hartweizengrieß](griessbrei_mit_hartweizen)
+*   [Hummus](hummus)
+*   [Risotto mit Trüffelöl](risotto_mit_trueffeloe)
+*   [Rosinensemmeln](rosinensemmeln)
+*   [Spaghetti mit Trüffelöl](spaghetti_mit_trueffeloel)
+
+
 ## Gerichte
 
 *   [Asiatische Kürbisgericht](asiatisches_kürbisgericht)
