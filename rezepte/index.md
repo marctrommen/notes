@@ -22,7 +22,7 @@ title: "Rezepte"
 
 *   [Asiatische Kürbisgericht](asiatisches_kürbisgericht)
 *   [Asiatisches Ramen mit Lachs](asiatisches_ramen_mit_lachs)
-*   [Ragù alla Genovese](bolognese_art_genovese)
+*   [Bratwürstchen in Tomatensoße mit Kapern](bratwuerste_mit_tomatensosse)
 *   [Gnocchi aus Kartoffeln](gnocchi_kartoffel)
 *   [Grießnockerl-Suppe](grießnockerlsuppe)
 *   [Kürbis Mais Pfanne](kürbis_mais_pfanne)
@@ -32,6 +32,8 @@ title: "Rezepte"
 *   [Nudeln mit Tomatensoße und Burrata](nudeln_mit_tomaten_und_burrata)
 *   [Ofengemüse](ofengemuese)
 *   [Quiche Lorraine](quiche_lorraine)
+*   [Polenta / Polenta mit Parmesan gratiniert](polenta)
+*   [Ragù alla Genovese](bolognese_art_genovese)
 *   [Rinderschmorbraten im Ofen](rinderschmorbraten_im_ofen)
 *   [Risotto mit Pilzen](risotto_mit_pilzen)
 *   [Rote Linsen Curry mit Süßkartoffeln](rote_linsen_curry_mit_suesskartoffeln)
