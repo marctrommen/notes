@@ -9,6 +9,8 @@ title: "Bratwürstchen mit Tomatensoße und Kapern"
 
 # Bratwürstchen mit Tomatensoße und Kapern
 
+<img src="./pics/bratwuerste_mit_tomatensosse.png" width="600" alt="Bratwürstchen mit Tomatensoße und Kapern">
+
 
 ## Zutaten (für 4 bis 6 Portionen)
 
