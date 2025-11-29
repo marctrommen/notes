@@ -35,4 +35,4 @@ title: "Ofengemüse"
 *	Paprikapulver, Rosmarin, Öl und Salz untermischen und alles gut vermengen.
 	
 *	Auf ein mit Backpapier ausgelegtes Backblech geben und im Backofen auf 
-	mittlerer Schiene bei  °C ca. 40 Minuten backen.
+	mittlerer Schiene bei  200 Grad ca. 40 Minuten backen.

@@ -11,7 +11,6 @@ title: "Rezepte"
 ## NEU - Gefunden, aber noch nicht getestet :-)
 
 *   [Elisenlebkuchen](elisenlebkuchen)
-*   [Grießbrei mit Hartweizengrieß](griessbrei_mit_hartweizen)
 *   [Hummus](hummus)
 *   [Risotto mit Trüffelöl](risotto_mit_trueffeloel)
 *   [Rosinensemmeln](rosinensemmeln)
@@ -20,7 +19,7 @@ title: "Rezepte"
 
 ## Gerichte
 
-*   [Asiatische Kürbisgericht](asiatisches_kürbisgericht)
+*   [Asiatisches Kürbisgericht](asiatisches_kürbisgericht)
 *   [Asiatisches Ramen mit Lachs](asiatisches_ramen_mit_lachs)
 *   [Bratwürstchen in Tomatensoße mit Kapern](bratwuerste_mit_tomatensosse)
 *   [Gnocchi aus Kartoffeln](gnocchi_kartoffel)
@@ -59,6 +58,7 @@ title: "Rezepte"
 *	[Chia Schoko Pudding](chia_schoko_pudding)
 *   [Dinkel-Kekse (ohne Ei, Laktose-frei)](dinkel_kekse)
 *   [Grießbrei](griesbrei)
+*   [Grießbrei mit Hartweizengrieß](griessbrei_mit_hartweizen)
 *   [Himbeer Spekulatius Dessert](himbeer_spekulatius_dessert)
 *   [Milchreis](milchreis)
 *   [Pfannkuchen](pfannkuchen)

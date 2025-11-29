@@ -22,24 +22,24 @@ title: "Polenta / Mit Parmesan gratiniert"
 
 ## Zubereitung
 
-*	Gemüsebrühe zum Kochen bringen
+*	Gemüsebrühe zum Kochen bringen.
 
 *	Topf von der Herdplatte nehmen und Polentagrieß mit einem Kochlöffel in
-	die Gemüsebrühe einrühren
+	die Gemüsebrühe einrühren.
 
 *	Topf wieder auf Herdplatte schieben und unter ständigem Rühren Polenta 
 	aufkochen, bis Masse bindet. Dann Kochtopf von der Herdplatte nehmen und
 	Polenta im Topf mit geschlossenem Deckel 10 Minuten quellen lassen.
 
 *	Polenta im Topf mit dem Kochlöffel gut durchrühren und dabei mit Butter und
-	Muskat verfeinerner.
+	Muskat verfeinern.
 	
 *	Milch unter Rühren dazugeben, bis die gewünschte Konsistenz erreicht ist.
 
 
 ## Optional: Polenta mit Parmesan gratinieren
  
-*	Polentamasse in eine ofenfeste Auflaufform geben und glatt streichen
+*	Polentamasse in eine ofenfeste Auflaufform geben und glatt streichen.
 
 *	Den Parmesan frisch reiben und auf der Polentamasse in der Auflaufform
 	gleichmäßig verteilen.

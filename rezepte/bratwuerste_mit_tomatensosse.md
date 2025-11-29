@@ -30,17 +30,17 @@ title: "Bratwürstchen mit Tomatensoße und Kapern"
 	anbraten. Bratwürstchen müssen nicht ganz durchgebraten werden, da sie 
 	hinterher noch in der Tomatensoße köcheln.
 
-*	Nach dem Anbraten, würstchen auf einem Teller mit Küchenkrepp zum Fett 
+*	Nach dem Anbraten, Würstchen auf einem Teller mit Küchenkrepp zum Fett 
 	abtropfen zwischenlagern.
 
-*	In der gleichen Pfanne (zum aufnehmen der Röstaromen von den Bratwürstchen)
-	die in sehr feine Würfel geschnittene Zwiebel mit dem Knoblauch gurz 
+*	In der gleichen Pfanne (zum Aufnehmen der Röstaromen von den Bratwürstchen)
+	die in sehr feine Würfel geschnittene Zwiebel mit dem Knoblauch kurz 
 	anbraten.
 
 *	Zwiebeln und Knoblauch mit den Dosentomaten ablöschen. Zusätzlich noch 
-	Wasser (Tomatendose mit Wasser füllen) zum köcheln hinzugeben.
+	Wasser (Tomatendose mit Wasser füllen) zum Köcheln hinzugeben.
 	
-*	Die in groben Würfeln geschnittenen Tomaten und die ebenfalls in grobe 
+*	Die in grobe Würfel geschnittenen Tomaten und die ebenfalls in grobe 
 	Stücke geschnittenen Bratwürstchen hinzugeben und für 10 bis 15 Minuten
 	leicht köcheln lassen.
 	
