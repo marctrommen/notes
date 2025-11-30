@@ -50,6 +50,7 @@ title: "Rezepte"
 *   [Apfelstrudel mit Filo-Teig](apfelstrudel_mit_filoteig)
 *   [Cantuccini (kalorienarm)](cantuccini_kalorienarm)
 *   [Colomba](colomba)
+*   [Guglhupf mit Hefe, Sultaninen, Zitronat, Orangeat](guglhupf)
 *   [Vollkornbrot](vollkornbrot)
 
 
