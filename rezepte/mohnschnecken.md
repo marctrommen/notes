@@ -15,6 +15,7 @@ title: "Mohnschnecken"
 *   500g Mehl (300g Dinkelvollkorn, 200g Weizenmehl Type 405)
 *   250ml Hafertrunk
 *   25g frische Hefe
+*   1 Pck. Vanillezucker
 *   80g Zucker
 *   70g weiche Butter
 *   1 Prise Salz
@@ -23,6 +24,7 @@ title: "Mohnschnecken"
 
 *   200g Mohn, gemahlen
 *   200ml Hafertrunk
+*   1 Pck. Vanillezucker
 *   50g Zucker
 
 ## Zubereitung
