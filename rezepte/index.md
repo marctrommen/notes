@@ -10,10 +10,8 @@ title: "Rezepte"
 
 ## NEU - Gefunden, aber noch nicht getestet :-)
 
-*   [Elisenlebkuchen](elisenlebkuchen)
 *   [Hummus](hummus)
 *   [Risotto mit Trüffelöl](risotto_mit_trueffeloel)
-*   [Rosinensemmeln](rosinensemmeln)
 *   [Spaghetti mit Trüffelöl](spaghetti_mit_trueffeloel)
 
 
@@ -50,7 +48,10 @@ title: "Rezepte"
 *   [Apfelstrudel mit Filo-Teig](apfelstrudel_mit_filoteig)
 *   [Cantuccini (kalorienarm)](cantuccini_kalorienarm)
 *   [Colomba](colomba)
+*   [Elisenlebkuchen](elisenlebkuchen)
 *   [Guglhupf mit Hefe, Sultaninen, Zitronat, Orangeat](guglhupf)
+*   [Mohnschnecken](mohnschnecken)
+*   [Rosinensemmeln](rosinensemmeln)
 *   [Vollkornbrot](vollkornbrot)
 
 

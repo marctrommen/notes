@@ -8,6 +8,9 @@ title: "Guglhupf mit Hefe, Sultaninen, Zitronat, Orangeat"
 
 # Guglhupf mit Hefe, Sultaninen, Zitronat, Orangeat
 
+<img src="./pics/guglhupf_1.png" width="250" alt="Guglhupf">
+<img src="./pics/guglhupf_2.png" width="250" alt="Guglhupf">
+
 ## Zutaten
 
 *	250g Dinkelmehl (Type 630)
