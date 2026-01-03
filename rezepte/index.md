@@ -19,6 +19,7 @@ title: "Rezepte"
 
 *   [Asiatisches Kürbisgericht](asiatisches_kürbisgericht)
 *   [Asiatisches Ramen mit Lachs](asiatisches_ramen_mit_lachs)
+*   [Bolognese-Soße](bolognese_sosse)
 *   [Bratwürstchen in Tomatensoße mit Kapern](bratwuerste_mit_tomatensosse)
 *   [Gnocchi aus Kartoffeln](gnocchi_kartoffel)
 *   [Grießnockerl-Suppe](grießnockerlsuppe)
@@ -53,6 +54,7 @@ title: "Rezepte"
 *   [Mohnschnecken](mohnschnecken)
 *   [Rosinensemmeln](rosinensemmeln)
 *   [Vollkornbrot](vollkornbrot)
+*   [Vollkornsemmeln als Bäckerblume](vollkornsemmeln)
 
 
 ## Nachspeisen
